@@ -8,7 +8,7 @@ function App() {
     <div className="App-header">
       <div className="container" >
         <h1 className={"title red"}>Guess who's back</h1>
-        <h1 className={"title red"}>Back again</h1>
+        <h1 style={{BackgroundColor:"red",color: "yellow"}}>Back again</h1>
         <h1 className={"title red"}>Faissel's back, tell a friend</h1>
         
         <br/>
